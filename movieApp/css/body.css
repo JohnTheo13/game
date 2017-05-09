@@ -1,0 +1,91 @@
+.end{
+    background: url('../images/background.jpg') center center  no-repeat transparent;
+    -webkit-background: url('../images/background.jpg') center center  no-repeat transparent;
+    -o-background: url('../images/background.jpg') center center  no-repeat transparent;
+    -moz-background: url('../images/background.jpg') center center  no-repeat transparent;
+        height: 100%;
+   background-size: 100% 99%; 
+   height: 100%;  
+   margin: 10px
+}
+
+.start {
+    background: url('../images/background.jpg') center center  no-repeat transparent;
+    -webkit-background: url('../images/background.jpg') center center  no-repeat transparent;
+    -o-background: url('../images/background.jpg') center center  no-repeat transparent;
+    -moz-background: url('../images/background.jpg') center center  no-repeat transparent;
+        height: 100%;
+   background-size: 100% 99%; 
+   height: 100%;  
+   margin: 10px
+}
+body {
+    text-align: center;
+    background: #691bb3  no-repeat top center fixed;
+    -webkit-background: #691bb3  no-repeat top center fixed;
+    -o-background: #691bb3  no-repeat top center fixed;
+    -moz-background: #691bb3  no-repeat top center fixed;
+    color:  #6abf1b;;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    margin: 0;
+    padding-top: 100px;
+    height: 100%;
+    width: 100%;
+}
+
+.input-team{
+    color: #3d414c;
+    letter-spacing: 1px;
+    font-family: arial;
+}
+
+.head-img{
+    position: absolute;
+    height: 80px;
+    float: left;
+    left: 5px;
+}
+
+.head{
+    box-shadow: rgba(0, 0, 0, 0.8) 2px 2px 6px 0px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #eee;
+    background-color: #bf441b;
+    padding-top: 6px;
+    position: fixed;
+    top:0px;
+    width: 100%;
+    height: 90px;
+    z-index: 99;
+}
+
+.margins{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.none{
+    display:none
+}
+
+.winner{
+    position: relative;
+    top: 65px;
+    left: 30px;
+    text-align: -webkit-left;
+}
+
+.inside {
+    position: absolute;
+    color: #231d1a;
+    font-size: -webkit-xxx-large;
+    top: 10%;
+    right: 42.5%;
+}
+
+.white {
+    color: #fff;
+}
